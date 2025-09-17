@@ -71,6 +71,13 @@ Solution
 
 ## Github
 The progress of this project is documented in my Python coursework:
-    * Final Verion    :  https://github.com/sudo-stanly/Python-coursework/blob/main/Advanced%20studies/projects/project%201.py
-    * Fixes           :  https://github.com/sudo-stanly/Python-coursework/commit/e2e7d795bffb85182774a654d1ec303033da63f0
-    * Earlier Progress:  https://github.com/sudo-stanly/Python-coursework/commit/b97d13022afa16622bf859e8fe75b5abbaceef68
+    * Final Verion:  
+        https://github.com/sudo-stanly/Python-coursework/blob/main/Advanced%20studies/projects/project%201.py
+    
+    * Fixes:  
+        https://github.com/sudo-stanly/Python-coursework/commit/2368098c2bf6b92dbac208e714766545e8c11345
+        https://github.com/sudo-stanly/Python-coursework/commit/feb82fdedbb0f2500ce5d9f17ae506ddbb673b46
+    
+    * Earlier Progress:  
+        https://github.com/sudo-stanly/Python-coursework/commit/b97d13022afa16622bf859e8fe75b5abbaceef68
+        https://github.com/sudo-stanly/Python-coursework/commit/3aaa4d2f3c01d2925f299620c0dc37bfabbd4b34
