@@ -1,9 +1,11 @@
 import re
 import os
 
-def clear():
+def clear(): #! this is just to clear the terminal output for cleaner visual like in c++.
+    # Windows
     if os.name == 'nt':
         os.system('cls')
+    # macOS/Linux
     else:
         os.system('clear')
 
@@ -232,6 +234,16 @@ while True:
                     break
                 else:
                     print("[!] One word only.")
+                    
+                while True:
+                    x = input("\n[!] Press Q to quit: ")
+                    if x.lower() == 'q':
+                        clear()
+                        break
+                    else:
+                        print("[!] Invalid input. Please try again!")
+
+            print()
                 
         elif option == 7: #! Quit condition
             clear()
