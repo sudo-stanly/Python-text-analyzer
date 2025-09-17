@@ -235,13 +235,13 @@ while True:
                 else:
                     print("[!] One word only.")
                     
-                while True:
-                    x = input("\n[!] Press Q to quit: ")
-                    if x.lower() == 'q':
-                        clear()
-                        break
-                    else:
-                        print("[!] Invalid input. Please try again!")
+            while True:
+                x = input("\n[!] Press Q to quit: ")
+                if x.lower() == 'q':
+                    clear()
+                    break
+                else:
+                    print("[!] Invalid input. Please try again!")
 
             print()
                 
