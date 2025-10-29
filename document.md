@@ -1,4 +1,4 @@
-# Project Name : Student Grade Management System
+# Project Name : Text Analyzer
 
 ## Table of Contents
 - [Overview](#overview)
